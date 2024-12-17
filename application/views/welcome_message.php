@@ -170,7 +170,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 	</div>
 </section>
 
-<section class="ftco-section testimony-section bg-light">
+<section class="ftco-section testimony-section bg-light"><p></p>
 	<div class="container">
 		<div class="row justify-content-center mb-5">
 			<div class="col-md-7 text-center heading-section ftco-animate">
